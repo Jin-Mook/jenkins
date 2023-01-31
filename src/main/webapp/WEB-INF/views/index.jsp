@@ -11,5 +11,6 @@
     <h3>Version: 2.0</h3>
     ---------------
     <h3>ansible - check line2222</h3>
+    <h3>deploy 삭제 되는지 확인</h3>
 </body>
 </html>
